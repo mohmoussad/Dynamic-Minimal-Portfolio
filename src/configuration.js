@@ -54,8 +54,8 @@ const conifguration = {
       repo: "https://github.com/mohmoussad/Restore-Twitter-Bird",
     },
     {
-      title: "Minimal portfolio",
-      desc: "Minimal portfolio template inspired by the bento.me theme. Built using React, Bootstrap, and React Icons.",
+      title: "Dynamic Minimal Portfolio",
+      desc: "Dynamic responsive portfolio template inspired by the bento.me theme. Built using React, Bootstrap.",
       photo: "https://raw.githubusercontent.com/mohmoussad/Minimal-Portfolio/master/src/utils/screenshot.png",
       repo: "https://github.com/mohmoussad/Minimal-Portfolio",
       demo: "https://mohmoussad.github.io/Minimal-Portfolio/",
