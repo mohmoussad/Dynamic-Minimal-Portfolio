@@ -1,38 +1,108 @@
-.App {
+
+
+
+
+.layout {
+  overflow: auto; 
+  height: 100vh ;
+  /* background-color: whitesmoke; */
+}
+
+.profile {
+  position: sticky; 
+  top: 0; 
+  left: 0; 
+  height:100%
+}
+
+@media (max-width: 767px) {
+  .profile {
+    position: static;
+    height: auto;
+  }
+}
+
+
+.details {
+  height: 90vh;
+}
+
+h7 {
+  overflow: hidden;
+  overflow-wrap: break-word;
+  padding: 5px;
+}
+
+.summary {
+  inline-size: auto;
+  max-inline-size: 400px;
+  overflow-wrap: break-word;
+}
+
+
+h1 {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 0.5px ;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+
+.side-project-card {
+  max-width: 350px; 
+  height: 370px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.link-card, .skill-card, .side-project-card {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 0.5px ;
+  /* background-color: whitesmoke; */
+  border-radius: 20px;
+  transition: all 0.3s ease-in-out;
+}
+.link-card:active, .skill-card:active, .side-project-card:active {
+  transform: scale(0.95);
+}
+.link-card:hover, .skill-card:hover, .side-project-card:hover {
+  background-color: rgb(218, 218, 218)
 }
 
-.App-link {
-  color: #61dafb;
+.icon {
+  min-width: 28px;
+  font-size: 28px;
+  border-radius: 10px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.link {
+  text-decoration: none;
+  color: black;
+  min-height: 67.5px;
+  border-radius: 20px;
+}
+
+.side-project-card img {
+  margin: auto;
+  filter: grayscale(80%);
+  border-radius: 20px 20px 0 0;
+  max-height: 196px;
+  width: fit-content;
+  transition: all 0.3s ease-in-out;
+
+}
+
+.side-project-card:hover  img{
+  filter: grayscale(0%);
+}
+
+.side-project-card a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.466);
+  transition: all 0.3s ease-in-out;
+
+}
+
+.side-project-card a:hover {
+  color: rgb(71, 160, 255);
 }
