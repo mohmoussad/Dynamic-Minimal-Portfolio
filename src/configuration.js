@@ -35,14 +35,14 @@ const conifguration = {
   sideProjects: [
     {
       title: "Youtube Clone",
-      desc: "A Frontend clone of YouTube, Built using React, Material UI and RapidAPI.",
+      desc: "FFrontend clone of YouTube, Built using React, Material UI and RapidAPI.",
       photo: "https://user-images.githubusercontent.com/88286511/257021118-80f00e57-fedc-4e52-8543-e101aa378ce8.png",
       repo: "https://github.com/mohmoussad/youtube-clone",
       demo: "https://mohmoussad.github.io/youtube-clone/",
     },
     {
       title: "Twitter Broadcasts Search",
-      desc: "A Twitter filtered search to only get live broadcasts hosted on twitter, Built using Vanilla JS and Node.js.",
+      desc: "Twitter filtered search to only get live broadcasts hosted on twitter, Built using Vanilla JS and Node.js.",
       photo: "https://raw.githubusercontent.com/mohmoussad/Twitter-Broadcast-Search/master/assets/imgs/screenshot.png",
       repo: "https://github.com/mohmoussad/Twitter-Broadcast-Search",
       demo: "https://user-images.githubusercontent.com/88286511/255356510-9142ef44-6ca9-439a-81ef-839c7a07d57e.mp4",
@@ -52,6 +52,13 @@ const conifguration = {
       desc: "Chrome extension to restore twitter's blue bird logo.",
       photo: "https://raw.githubusercontent.com/mohmoussad/Restore-Twitter-Bird/master/images/logo.png",
       repo: "https://github.com/mohmoussad/Restore-Twitter-Bird",
+    },
+    {
+      title: "Minimal portfolio",
+      desc: "Minimal portfolio template inspired by the bento.me theme. Built using React, Bootstrap, and React Icons.",
+      photo: "https://raw.githubusercontent.com/mohmoussad/Minimal-Portfolio/master/src/utils/screenshot.png",
+      repo: "https://github.com/mohmoussad/Minimal-Portfolio",
+      demo: "https://mohmoussad.github.io/Minimal-Portfolio/",
     },
   ],
 };
