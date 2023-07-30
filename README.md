@@ -1,6 +1,6 @@
 # Dynamic Minimal Portfolio
 
-Minimal responsive portfolio template inspired by the bento.me theme. Built using React, Bootstrap, and React Icons, and it can be easily customized using a configuration file.
+Dynamic responsive portfolio template inspired by the bento.me theme. Built using React, Bootstrap, and React Icons, and it can be easily customized using a configuration file.
 
 [Live Version 🚀 ](https://mohmoussad.github.io/Dynamic-Minimal-Portfolio/)
 
