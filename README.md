@@ -6,11 +6,11 @@ Minimal portfolio template inspired by the bento.me theme. Built using React, Bo
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/mohmoussad/minimal-portfolio.git
+git clone https://github.com/mohmoussad/Minimal-Portfolio.git
 ```
 2. Change into the project directory and Install the required dependencies:
 ```
-cd minimal-portfolio && npm install
+cd Minimal-Portfolio && npm install
 ```
 
 3. Configuration
