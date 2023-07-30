@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mohmoussad/Minimal-Portfolio/static/css/main.af33a901.css",
+    "main.js": "/mohmoussad/Minimal-Portfolio/static/js/main.34af21c4.js",
+    "index.html": "/mohmoussad/Minimal-Portfolio/index.html",
+    "main.af33a901.css.map": "/mohmoussad/Minimal-Portfolio/static/css/main.af33a901.css.map",
+    "main.34af21c4.js.map": "/mohmoussad/Minimal-Portfolio/static/js/main.34af21c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af33a901.css",
+    "static/js/main.34af21c4.js"
+  ]
+}
