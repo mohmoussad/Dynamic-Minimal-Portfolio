@@ -1,10 +1,10 @@
-# Minimal Portfolio
+# Dynamic Minimal Portfolio
 
 Minimal responsive portfolio template inspired by the bento.me theme. Built using React, Bootstrap, and React Icons, and it can be easily customized using a configuration file.
 
-[Live Version 🚀 ](https://mohmoussad.github.io/Minimal-Portfolio/)
+[Live Version 🚀 ](https://mohmoussad.github.io/Dynamic-Minimal-Portfolio/)
 
-![screenshot](https://github.com/mohmoussad/Minimal-Portfolio/assets/88286511/a0e8e519-778a-4dc6-a503-46cc0f51d882)
+![screenshot](https://github.com/mohmoussad/Dynamic-Minimal-Portfolio/assets/88286511/a0e8e519-778a-4dc6-a503-46cc0f51d882)
 
 
 
@@ -12,11 +12,11 @@ Minimal responsive portfolio template inspired by the bento.me theme. Built usin
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/mohmoussad/Minimal-Portfolio.git
+git clone https://github.com/mohmoussad/Dynamic-Minimal-Portfolio.git
 ```
 2. Change into the project directory and Install the required dependencies:
 ```
-cd Minimal-Portfolio && npm install
+cd Dynamic-Minimal-Portfolio && npm install
 ```
 
 3. Configuration
