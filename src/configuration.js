@@ -1,7 +1,7 @@
 const conifguration = {
   name: "Mohammad Moussad",
   photo: "https://avatars.githubusercontent.com/u/88286511",
-  summary: "Coding enthustic, problem solver, planner.",
+  summary: "Coding enthusiast, problem solver, planner.",
   contacts: [
     {
       type: "linkedin",
