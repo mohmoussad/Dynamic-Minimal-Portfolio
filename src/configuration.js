@@ -56,9 +56,8 @@ const conifguration = {
     {
       title: "Dynamic Minimal Portfolio",
       desc: "Dynamic responsive portfolio template inspired by the bento.me theme. Built using React, Bootstrap.",
-      photo: "https://raw.githubusercontent.com/mohmoussad/Minimal-Portfolio/master/src/utils/screenshot.png",
-      repo: "https://github.com/mohmoussad/Minimal-Portfolio",
-      demo: "https://mohmoussad.github.io/Minimal-Portfolio/",
+      photo: "https://raw.githubusercontent.com/mohmoussad/Dynamic-Minimal-Portfolio/master/src/utils/screenshot.png",
+      repo: "https://github.com/mohmoussad/Dynamic-Minimal-Portfolio",
     },
   ],
 };
