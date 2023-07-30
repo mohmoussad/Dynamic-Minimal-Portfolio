@@ -1,6 +1,10 @@
 # Minimal Portfolio Template - bento.me Theme
 
-Minimal portfolio template inspired by the bento.me theme. Built using React, Bootstrap, and React Icons, and it can be easily customized using a configuration file.
+Minimal responsive portfolio template inspired by the bento.me theme. Built using React, Bootstrap, and React Icons, and it can be easily customized using a configuration file.
+
+[Live Version 🚀 ](https://mohmoussad.github.io/Minimal-Portfolio/)
+
+
 
 ## Usage
 1. Clone this repository to your local machine:
