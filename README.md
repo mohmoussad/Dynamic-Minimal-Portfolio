@@ -4,6 +4,8 @@ Minimal responsive portfolio template inspired by the bento.me theme. Built usin
 
 [Live Version 🚀 ](https://mohmoussad.github.io/Minimal-Portfolio/)
 
+![screenshot](https://github.com/mohmoussad/Minimal-Portfolio/assets/88286511/a0e8e519-778a-4dc6-a503-46cc0f51d882)
+
 
 
 ## Usage
